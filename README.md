@@ -45,11 +45,15 @@ _If you have ideas for releases in the future, it is a good idea to provide link
 
 ## Contributing
 
-Provide a `CONTRIBUTING.md` file. See the template file in this repository.
+_Provide a `CONTRIBUTING.md` file. See the template file in this repository._
+
+See the `CONTRIBUTING.md` file for how to contribute to this project.
 
 ## Changelog
 
-Keep a changelog in `CHANGELOG.md`. See the template file in this repository.
+_Keep a changelog in `CHANGELOG.md`. See the template file in this repository._
+
+See `CHANGELOG.md` for the changes and release history of this project.
 
 ## Authors and Acknowledgments (optional)
 
@@ -57,6 +61,4 @@ _Show your appreciation to those who have contributed to the project._
 
 ## License
 
-_For open source projects, say how it is licensed. Create a `LICENSE.txt` file in this repository._
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+This project is copyrighted by Hewlett Packard Enterprise Development LP and is distributed under the MIT license. See the `LICENSE.txt` file for details.
